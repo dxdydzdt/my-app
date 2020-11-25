@@ -1,0 +1,12 @@
+C:\Users\user452\source\repos\my-app\my-app\bin\Release\netcoreapp3.1\my-app.exe
+C:\Users\user452\source\repos\my-app\my-app\bin\Release\netcoreapp3.1\my-app.deps.json
+C:\Users\user452\source\repos\my-app\my-app\bin\Release\netcoreapp3.1\my-app.runtimeconfig.json
+C:\Users\user452\source\repos\my-app\my-app\bin\Release\netcoreapp3.1\my-app.runtimeconfig.dev.json
+C:\Users\user452\source\repos\my-app\my-app\bin\Release\netcoreapp3.1\my-app.dll
+C:\Users\user452\source\repos\my-app\my-app\bin\Release\netcoreapp3.1\my-app.pdb
+C:\Users\user452\source\repos\my-app\my-app\obj\Release\netcoreapp3.1\my-app.AssemblyInfoInputs.cache
+C:\Users\user452\source\repos\my-app\my-app\obj\Release\netcoreapp3.1\my-app.AssemblyInfo.cs
+C:\Users\user452\source\repos\my-app\my-app\obj\Release\netcoreapp3.1\my-app.csproj.CoreCompileInputs.cache
+C:\Users\user452\source\repos\my-app\my-app\obj\Release\netcoreapp3.1\my-app.dll
+C:\Users\user452\source\repos\my-app\my-app\obj\Release\netcoreapp3.1\my-app.pdb
+C:\Users\user452\source\repos\my-app\my-app\obj\Release\netcoreapp3.1\my-app.genruntimeconfig.cache
