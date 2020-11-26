@@ -1,17 +1,15 @@
 ﻿using System;
+using my_app.Date;
 
 namespace my_app
 {
     public class Program
     {
-        public static string GetCurrentDate(string? format)
-        {
-            return DateTime.Now.ToString(format);
-        }
-
         public static void Main(string[] args)
         {
-            Console.WriteLine(GetCurrentDate(null));
+            Date.Date date = Date.Date.getInstance();
+
+            Console.WriteLine(date.getCurrentDate(null));
         }
     }
 }
