@@ -10,3 +10,4 @@ C:\Users\user452\source\repos\my-app\my-app\obj\Release\netcoreapp3.1\my-app.csp
 C:\Users\user452\source\repos\my-app\my-app\obj\Release\netcoreapp3.1\my-app.dll
 C:\Users\user452\source\repos\my-app\my-app\obj\Release\netcoreapp3.1\my-app.pdb
 C:\Users\user452\source\repos\my-app\my-app\obj\Release\netcoreapp3.1\my-app.genruntimeconfig.cache
+C:\Users\user452\source\repos\my-app\my-app\obj\Release\netcoreapp3.1\my-app.csprojAssemblyReference.cache
